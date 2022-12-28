@@ -23,5 +23,5 @@ _Starting from 2022.12.22_
 1. STL (Standard Template Library)
 1. std::string
 1. I/O (Input and Output)
-1. Eseential Modern C++
+1. Essential Modern C++
 
