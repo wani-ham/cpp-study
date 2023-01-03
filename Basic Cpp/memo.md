@@ -11,3 +11,10 @@
 * Managing Soultion and Projects in Visual Studio
 
 ### Basic C++
+* comments (user-friendly)
+* objects, variable
+* L-value, R-value
+* initialization, assignment of variables
+
+* function
+* how to use basic debugger in visual studio
