@@ -6,7 +6,7 @@ _Starting from 2022.12.22_
 
 ## Sections
 1. [**Basic C++**](https://github.com/wani-ham/TIL_cpp/tree/main/Basic%20Cpp)
-1. Variables and Types
+1. [**Variables and Types**](https://github.com/wani-ham/TIL_cpp/tree/main/Variables%20and%20Types)
 1. Operators
 1. Scope of Variables
 1. Control Flow
