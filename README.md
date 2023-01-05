@@ -1,4 +1,4 @@
-# Today I Learned - C++
+# Yonsei EE C++ Study
 
 ### Learning C++
 
