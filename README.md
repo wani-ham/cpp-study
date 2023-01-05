@@ -5,6 +5,10 @@
 
 :calendar: 기간 : 2023.01.05 ~ 
 
+:white_check_mark: 이 Repository에는 스터디에서 공부한 연습문제 코드들을 올립니다.
+
+:white_check_mark: C++ 개념 요약 정리 : :memo: [**Notion**](https://nosy-course-40e.notion.site/2023-C-eae8fad0704349b085603ebb1765a696)
+
 ## :zap: 스터디 멤버
 
 
