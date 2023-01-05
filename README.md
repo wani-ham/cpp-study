@@ -17,7 +17,7 @@
 
 :one:	정해진 진도와 실습과제를 각자 공부해오기
 
-:two: 주 1회 디스코드 방에서 음성미팅
+:two: 주 1회 디스코드 방에서 미팅
 
 :three: [**Notion**](https://nosy-course-40e.notion.site/2023-C-eae8fad0704349b085603ebb1765a696)에 배운 내용 정리
 
