@@ -1,10 +1,24 @@
-# Yonsei EE C++ Study
+# :eagle: 연세대학교 전기전자공학부 C++ 스터디
 
-### Learning C++
 
-_Starting from 2022.12.22_
+연세대학교 전기전자공학부 내에서 **C++**를 공부하기 위해 방학간 **자발적으로 결성한 스터디**입니다.
 
-## Sections
+:calendar: 기간 : 2023.01.05 ~ 
+
+## :zap: 스터디 멤버
+
+
+
+## :zap: 진행방식
+
+:one:	정해진 진도와 실습과제를 각자 공부해오기
+
+:two: 주 1회 디스코드 방에서 음성미팅
+
+:three: [**Notion**](https://nosy-course-40e.notion.site/2023-C-eae8fad0704349b085603ebb1765a696)에 배운 내용 정리
+
+
+## :zap: Sections
 1. [**Basic C++**](https://github.com/wani-ham/TIL_cpp/tree/main/Basic%20Cpp)
 1. [**Variables and Types**](https://github.com/wani-ham/TIL_cpp/tree/main/Variables%20and%20Types)
 1. Operators
