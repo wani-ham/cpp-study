@@ -1,0 +1,21 @@
+### Question 1
+What is the difference between initialization and assignment?
+
+* The ansewer
+
+### Question 2
+When does undefined behavior occur? What are the consequences of undefined behavior?
+
+* The Answer
+
+### Question 3
+Write a program that asks the user to enter a number, and then enter a second number.    
+The program should tell the user what the result of adding and subtracting the two numbers is.
+
+The output of the program should match the following (assuming inputs of 6 and 4):
+> Enter an integer: 6 \
+> Enter another integer: 4 \
+> 6 + 4 is 10. \
+> 6 - 4 is 2.
+
+* Please check c1q3.cpp
