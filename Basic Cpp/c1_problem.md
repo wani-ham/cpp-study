@@ -18,4 +18,4 @@ The output of the program should match the following (assuming inputs of 6 and 4
 > 6 + 4 is 10. \
 > 6 - 4 is 2.
 
-* Please check c1q3.cpp
+* Please check c1_q3.cpp
